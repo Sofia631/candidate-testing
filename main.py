@@ -9,7 +9,7 @@ import json
 import re
 import os
 
-TOKEN = "7949630541:AAEyGwfyP9xAtBwS9GxQg7lbiT3nxmMwpGM"
+TOKEN = " "
 
 DATA_FILE = "data.json"
 
